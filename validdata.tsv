@@ -1,0 +1,851 @@
+text	label
+our friends won't buy this analysis , let alone the next one we propose .	1
+one more pseudo generalization and i 'm giving up .	1
+one more pseudo generalization or i 'm giving up .	1
+the more we study verbs , the crazier they get .	1
+day by day the facts are getting murkier .	1
+i 'll fix you a drink .	1
+fred watered the plants flat .	1
+bill coughed his way out of the restaurant .	1
+we 're dancing the night away .	1
+herman hammered the metal flat .	1
+the critics laughed the play off the stage .	1
+the pond froze solid .	1
+bill rolled out of the room .	1
+the gardener watered the flowers flat .	1
+the gardener watered the flowers .	1
+bill broke the bathtub into pieces .	1
+bill broke the bathtub .	1
+they drank the pub dry .	1
+they drank the pub .	0
+the professor talked us into a stupor .	1
+the professor talked us .	0
+we yelled ourselves hoarse .	1
+we yelled ourselves .	0
+we yelled harry hoarse .	0
+harry coughed himself into a fit .	1
+harry coughed himself .	0
+harry coughed us into a fit .	0
+bill followed the road into the forest .	1
+we drove highway 5 from sd to sf .	1
+fred tracked the leak to its source .	1
+john danced waltzes across the room .	1
+bill urinated out the window .	1
+bill coughed out the window .	1
+bill bled on the floor .	1
+the toilet leaked through the floor into the kitchen below .	1
+bill ate off the floor .	1
+bill drank from the hose .	1
+this metal hammers flat easily .	1
+they made him president .	1
+they made him angry .	1
+they caused him to become angry by making him .	0
+they caused him to become president by making him .	0
+they made him to exhaustion .	0
+they made him into a monster .	1
+the trolley rumbled through the tunnel .	1
+the wagon rumbled down the road .	1
+the bullets whistled past the house .	1
+the knee replacement candidate groaned up the stairs .	1
+the car honked down the road .	0
+the dog barked out of the room .	0
+the dog barked its way out of the room .	1
+bill whistled his way past the house .	1
+the witch vanished into the forest .	1
+bill disappeared down the road .	1
+the witch went into the forest by vanishing .	0
+the witch went into the forest and thereby vanished .	1
+the building is tall and wide .	1
+the building is tall and tall .	0
+this building is taller and wider than that one .	1
+this building got taller and wider than that one .	1
+this building got taller and taller .	1
+this building is taller and taller .	0
+this building got than that one .	0
+this building is than that one .	0
+bill floated into the cave .	1
+bill floated into the cave for hours .	0
+bill pushed harry off the sofa for hours .	0
+bill floated down the river for hours .	1
+bill floated down the river .	1
+bill pushed harry along the trail for hours .	1
+bill pushed harry along the trail .	1
+the road zigzagged down the hill .	1
+the rope stretched over the pulley .	1
+the weights stretched the rope over the pulley .	1
+the weights kept the rope stretched over the pulley .	1
+sam cut himself free .	1
+sam got free by cutting his finger .	1
+bill cried himself to sleep .	1
+bill cried sue to sleep .	0
+bill squeezed himself through the hole .	1
+bill sang himself to sleep .	1
+bill squeezed the puppet through the hole .	1
+bill sang sue to sleep .	1
+the elevator rumbled itself to the ground .	0
+if the telephone rang , it could ring itself silly .	1
+she yelled hoarse .	0
+ted cried to sleep .	0
+the tiger bled to death .	1
+he coughed awake and we were all overjoyed , especially sierra .	1
+john coughed awake , rubbing his nose and cursing under his breath .	1
+john coughed himself awake on the bank of the lake where he and bill had their play .	1
+ron yawned himself awake .	1
+she coughed herself awake as the leaf landed on her nose .	1
+the worm wriggled onto the carpet .	1
+the chocolate melted onto the carpet .	1
+the ball wriggled itself loose .	0
+bill wriggled himself loose .	1
+aliza wriggled her tooth loose .	1
+the off center spinning flywheel shook itself loose .	1
+the more you eat , the less you want .	1
+if you eat more , you want correspondingly less .	1
+when you eat more , you want correspondingly less .	1
+as you eat more , you want correspondingly less .	1
+the most you want , the least you eat .	0
+the angrier sue gets , the more fred admires her .	1
+the more that you eat , the less that you want .	1
+the angrier that sue gets , the more that fred admires her .	1
+i think that the more you eat , the less you want .	1
+i 'm not shocked by the idea that the more you eat , the less you want .	1
+it is obvious that the more you eat , the less you want .	1
+it is not entirely clear if the more you eat , the less you want .	1
+i want to explain exactly why the more you eat , the less you want .	1
+i demand that the more john eats , the more he pays .	1
+i demand that the more john eat , the more he pay .	0
+i demand that john pay more , the more he eats .	1
+i demand that john pays more , the more he eat .	0
+you get angrier , the more we eat , do n't you .	1
+you get angrier , the more we eat , do n't we .	0
+the harder it has rained , how much faster a flow that appears in the river ?	0
+the harder it has rained , how much faster a flow appears in the river ?	1
+the harder it rains , how much faster that do you run ?	0
+the harder it rains , how much faster do you run ?	1
+the harder it rains , how much faster a flow do you see in the river ?	1
+the harder it rains , how much faster a flow that do you see in the river ?	0
+when it rains harder , how much faster a flow appears in the river ?	1
+as it rains harder , how much faster a flow appears in the river ?	1
+as it rains harder , how much faster a flow that appears in the river ?	0
+when it rains harder , how much faster a flow that appears in the river ?	0
+how much harder has it rained , the faster a flow you see in the river ?	1
+how much harder has it rained , when you see a faster flow in the river ?	1
+the more john eats , the tighter keep your mouth shut about it .	0
+the more everyone eat , the more john keeps his big mouth shut about it , ok ?	0
+when john eats more , keep your mouth shut tighter , ok ?	1
+as john eats more , keep your mouth shut tighter , ok ?	1
+keep your mouth shut tighter , the more john eats , ok ?	1
+everyone keep your mouth shut tighter , the more john eats , ok ?	1
+i can well imagine the more him eating , the fatter him getting .	0
+bill can well imagine getting fat .	1
+bill can well imagine the more he eats , the fatter getting .	0
+fred can well imagine joe getting fatter , the more he eats .	1
+it is important the more you eat , the more careful to be .	0
+it is important for the more you eat , the more careful to be .	0
+it is important the more you to eat , the more careful to be .	0
+it is important the more you eat , the more careful you to be .	0
+it is important the more you eat , the more careful for you to be .	0
+it is important for the more you to eat , the more careful to be .	0
+it is important for the more you to eat , the more careful for you to be .	0
+it is important the more you to eat , the more careful for you to be .	0
+it is important for the more you eat , the more careful you to be .	0
+it is important for you to be more careful , the more you eat .	1
+it is important to be more careful , the more you eat .	1
+i can well imagine quickly mary answering the question .	0
+i can well imagine with a hatchet mary destroying the jeep .	0
+i can well imagine if he eats more , him getting fat .	0
+it is not entirely obvious if , mary listens to the grateful dead , she gets depressed .	0
+it is not entirely obvious whether , mary listens to the grateful dead , she gets depressed .	0
+mary listens to the grateful dead and she gets depressed .	1
+if mary listens to the grateful dead , she gets depressed .	1
+when mary listens to the grateful dead , she gets depressed .	1
+mary gets depressed if she listens to the grateful dead .	1
+mary gets depressed when she listens to the grateful dead .	1
+the more she looked at pictures , the angrier mary got .	1
+the more pictures mary looked at , she got angrier and angrier .	0
+mary gets depressed and she listens to the grateful dead .	1
+the higher the stakes are , the lower his expectations are .	1
+the higher the stakes , the lower his expectations .	1
+his expectations are lower , the higher the stakes .	1
+his expectations are lower , the higher the stakes are .	1
+his expectations lower , the higher the stakes .	0
+his expectations lower , the higher the stakes are .	0
+the more obnoxious fred is , the less attention you should pay to him .	1
+the more obnoxious fred , the less attention you should pay to him .	0
+the more fred is obnoxious , the less you should pay attention to him .	1
+the more obnoxious fred , the less you should pay attention to him .	0
+his expectations are always lower than mine .	1
+john was lots more obnoxious than fred was .	1
+you should always lock your door , no matter how fancy the hotel might be .	1
+you should always lock your door , no matter how fancy the hotel .	1
+i do n't plan to lock the door , no matter how fancy this hotel is .	1
+i do n't plan to lock the door , no matter how fancy this hotel .	0
+i 'm going out , whatever the weather .	1
+i 'm going out , wherever that hurricane might be .	1
+i 'm going out , wherever that hurricane .	0
+the more examples mary says that bill has helped fred to discover the less i believe her .	1
+the more food mary knows a man that eats the poorer she gets .	0
+the fatter he goes to a doctor when he gets the more he eats .	0
+the fatter that that he gets bothers him , the more he eats .	0
+the more books i ask to whom he will give , the more he reads .	0
+the more people i ask what he will give to the more he reads .	0
+the more carefully he words the letter the safer he 'll be .	1
+the more carefully he knows a man that worded the letter the safer he 'll be .	0
+the more geniuses john meets , the angrier he gets .	1
+the more john meets geniuses , the angrier he gets .	0
+the more people you say will buy tickets , the happier i 'll be .	1
+the more people you say that will buy tickets , the happier i 'll be .	0
+the more people you say that right after the show opens will buy tickets , the happier i 'll be .	1
+the more i talk to joe , the less about linguistics i am inclined to think sally has taught him to appreciate .	1
+the more he eats , the poorer he knows a woman that gets .	0
+the more he eats , the fatter he goes to a doctor when he gets .	0
+the more he eats , the fatter that that he gets really bothers me .	0
+the more he reads , the more books i wonder to whom he will give .	0
+the more he reads , the more people i wonder what he will give to .	0
+the sooner you call , the more carefully i know a man that will word the letter .	0
+the richer john gets , the more geniuses john meets .	1
+the richer he gets , the more john meets geniuses .	0
+the more articles he reads , the fewer people he thinks will go into linguistics .	1
+the more articles he reads , the fewer people he thinks that will go into linguistics .	0
+the more articles he reads , the fewer people he thinks that under the current circumstances will go into linguistics .	1
+the more articles he reads , the fewer people he thinks under the current circumstances will go into linguistics .	1
+the more people that arrive , the louder that it gets .	1
+the more people that arrive , the louder it gets .	1
+the more people you give beer to , the more people that get sick .	1
+the more people that you give beer to , the more people that get sick .	1
+the more people arrive , the louder that it gets .	1
+the more people arrive , the louder it gets .	1
+the more people that you give beer to , the more people get sick .	1
+the more pictures of john that he buys the more arrogant he becomes .	0
+the more pictures of himself that john buys the more arrogant he becomes .	1
+the man that arrived on the train was my brother .	1
+the man arrived on the train was my brother .	0
+the more people everyone who likes pays attention to , the happier we all are .	0
+the later it gets , the more people everyone who likes pays attention to .	0
+whenever bill smokes , susan hates him all the more .	1
+whenever bill smokes , susan hates him much more .	1
+whenever bill smokes , susan hates him far more .	1
+whenever bill smokes , susan hates him a lot more .	1
+once janet left , fred became all the crazier .	1
+once janet left , fred became much crazier .	1
+once janet left , fred became far crazier .	1
+fred became all the crazier , the more often janet left .	1
+when bill smokes , all the more does susan hate him .	1
+when bill smokes , much more does susan hate him .	0
+when bill smokes , all the more susan hates him .	0
+so much did you eat that everyone gasped .	1
+so fast did you run that everyone gasped .	1
+so intelligent a dog did you buy that everyone gasped .	1
+i know how much you ate .	1
+i know how fast you ran .	1
+i know how intelligent a dog you bought .	1
+he ate so much that he got sick .	1
+so much did he eat that he got sick .	1
+the more you eat , the more you want .	1
+you eat the more , the more you want .	0
+the more you eat , you want the more .	0
+i wonder you ate how much .	0
+i wonder to how many people bill talks .	1
+the longer he has to wait , the angrier john gets .	1
+if he has to wait , john gets angry .	1
+he gets angry , the longer john has to wait .	0
+he gets angry if john has to wait .	0
+the more that pictures of him appear in the news , the more embarrassed john becomes .	1
+the more pictures of himself that appear in the news , the more embarrassed john becomes .	1
+the more that pictures of himself appear in the news , the more embarrassed john becomes .	1
+the more pictures of him appear in the news , the more likely john is to get arrested .	1
+the more pictures of himself appear in the news , the more likely john is to get arrested .	0
+the more that pictures of him appear in the news , the more likely john is to get arrested .	1
+the more that pictures of himself appear in the news , the more likely john is to get arrested .	0
+the more that john gets upset by them , the more that stories about him seem to show up in the news .	1
+the more that john gets upset by them , the more that stories about himself seem to show up in the news .	0
+john is more embarrassed , the more pictures of him appear in the news .	1
+john is more embarrassed , the more pictures of him that appear in the news .	1
+john is more embarrassed , the more pictures of himself appear in the news .	1
+john is more embarrassed , the more pictures of himself that appear in the news .	1
+stories about him seem to show up more on the evening news , the more that john gets upset by them .	1
+stories about himself seem to show up more on the evening news , the more that john gets upset by them .	0
+if you give him enough opportunity , every senator will succumb to corruption .	1
+you give him enough opportunity and every senator will succumb to corruption .	1
+we gave him enough opportunity and , sure enough , every senator succumbed to corruption .	0
+if you give any senator enough opportunity , he will succumb to corruption .	1
+you give any senator enough opportunity and he will succumb to corruption .	1
+you give every senator enough opportunity and he will succumb to corruption .	0
+we gave any senator enough opportunity and , sure enough , he succumbed to corruption .	0
+we gave every senator enough opportunity and , sure enough , he succumbed to corruption .	0
+the more lobbyists he talks to , the more corrupt every senator seems to become .	1
+the more lobbyists wine and dine him , the more every senator is susceptible to corruption .	1
+the more time that every senator spends with lobbyists , the more likely he succumbs to corruption .	0
+every senator becomes more corrupt , the more lobbyists he talks to .	1
+any senator becomes more corrupt , the more lobbyists he talks to .	1
+he seems to become more corrupt , the more lobbyists any senator talks to .	0
+he seems to become more corrupt , the more lobbyists every senator talks to .	0
+every senator seems to become more corrupt , if he talks to more lobbyists .	1
+any senator seems to become more corrupt , if he talks to more lobbyists .	1
+any senator seems to become more corrupt , as he talks to more lobbyists .	1
+he seems to become more corrupt , if any senator talks to more lobbyists .	0
+he seems to become more corrupt , if every senator talks to more lobbyists .	0
+he seems to become more corrupt , as every senator talks to more lobbyists .	0
+he seems to become more corrupt , as any senator talks to more lobbyists .	0
+the sooner you solve this problem , the more easily you 'll satisfy the folks up at corporate headquarters .	1
+this is the sort of problem which the sooner you solve the more easily you 'll satisfy the folks up at corporate headquarters .	1
+the folks up at corporate headquarters are the sort of people who the sooner you solve this problem , the more easily you 'll satisfy .	1
+this problem , the sooner you solve the more easily you 'll satisfy the folks up at corporate headquarters .	1
+who did you give pictures of to friends of ?	1
+it is this problem that the sooner you solve the more easily you 'll satisfy the folks up at corporate headquarters .	1
+it is the folks up at corporate headquarters who the sooner you solve this problem , the more easily you 'll satisfy .	0
+which problem the sooner you solve , will the more easily you satisfy the folks up at corporate headquarters ?	0
+which problem does the sooner that you solve , the more easily you 'll satisfy the folks up at corporate headquarters ?	0
+which problem the sooner that you solve , will the more easily you satisfy the folks up at corporate headquarters ?	0
+the harder it rains , the faster who runs ?	0
+the louder who talks , the angrier you get ?	0
+the harder that it rains , how much faster a flow do you see in the river ?	1
+they failed to tell me which problem the sooner i solve , the quicker the folks up at corporate headquarters .	1
+i finally worked up enough courage to ask which people up at corporate headquarters the sooner i solve this problem , the quicker i 'll get free of .	0
+which folks up at corporate headquarters do you think that the sooner you solve this problem , the quicker you 'll be able to tell t to buzz off ?	0
+this is a problem that you 'll be able to tell the folks up at corporate headquarters to buzz off if you solve .	0
+this is a problem that you 'll be able to tell the folks up at corporate headquarters to buzz off if you solve it .	1
+this is a problem that you solve it and you 'll be able to tell the folks up at corporate headquarters to buzz off .	0
+those are the folks that you just solve this problem and you 'll be able to put them on ice .	0
+they failed to tell me which problem i 'll beat the competition more easily , the sooner i solve .	0
+this is the problem that you 'll beat the competition more easily , the sooner you solve .	0
+john saw the man in the room .	1
+which room did john see the man in ?	1
+who did john think that bill claimed that mary suspected that everybody liked ?	1
+john could not visit sally .	1
+what john could do is not visit sally .	1
+john could n't visit sally .	1
+why did john leave ?	1
+i hit the ball .	1
+you hit the ball .	1
+he hit the ball .	0
+she hit the ball .	0
+they hit the ball .	1
+am not i going ?	0
+i am not going .	1
+are n't i going ?	1
+i are n't going .	0
+louise is unhappy , is n't she ?	1
+louise likes not being happy , does n't she ?	1
+not many books survived the fire , did they ?	1
+no books survived the fire , did they ?	1
+he has n't often paid taxes , has he ?	1
+he ca n't pay taxes , can he ?	1
+she does not see him .	1
+she kept not seeing him .	1
+she could not have been working .	1
+marianne not left .	0
+marianne left not .	0
+he could not have been working .	1
+he can not have been working .	1
+he can simply not have been working .	1
+you must not simply not work .	1
+he may not just not have been working .	1
+he ca n't have been working .	1
+ca n't he have been working ?	1
+can he not have been working ?	1
+can he not have been working ?	0
+john wrote books .	1
+john write books .	0
+john wrote books .	0
+john did not write books .	1
+john seems that is nice .	0
+`` i am so happy '' , thought john .	1
+down the hill rolled john .	1
+john kisses often mary .	0
+john often kisses mary .	1
+who do you think mary said john likes ?	1
+who did you ask whether mary knows why john likes ?	0
+who do you think that mary said that john likes ?	1
+how do you wonder whether mary solved the problem ?	0
+how do you think that mary solved the problem ?	1
+how do you wonder whether john said that mary solved the problem ?	0
+how do you wonder whether john said mary solved the problem ?	0
+which problem do you wonder whether john said that mary solved ?	0
+how did you think that mary solved the problem ?	1
+mary hired someone .	1
+i heard that mary hired someone .	1
+i resigned because mary hired someone .	1
+mary wondered which picture of himself bill saw ?	1
+which picture of himself does mary think that john said that susan likes ?	1
+mary thinks that john said that susan likes pictures of himself ?	0
+mary thinks that john said that pictures of himself , susan likes ?	1
+if you do n't believe me , you will the weatherman ?	1
+i rolled up a newspaper , and lynn did a magazine ?	1
+kathy likes astronomy , but she does n't meteorology ?	1
+the da proved jones guilty and the assistant da will prove smith .	1
+mary will believe susan , and you will bob .	1
+you might not believe me but you will bob .	1
+you will bob believe .	0
+how did you solve the problem ?	1
+i wonder who could solve the problem in this way .	1
+how do you wonder who could solve this problem .	0
+no candidate can predict how many people will vote for him .	1
+every politician is worried when the press starts attacking him .	1
+which politician appointed the journalist who supported him ?	1
+the fact that no candidate was elected shows that he was inadequate .	0
+john sells books , mary buys records and bill v newspapers .	1
+the question of whether john met mary worries the people who support .	1
+they have left .	1
+have they left ?	1
+could they have left ?	1
+he has often seen mary .	1
+he i often sees mary .	1
+he sees often mary .	0
+sees he i often mary ?	0
+it seems that it is likely that john will win .	1
+it seems that john is likely to win .	1
+john seems to be likely to win .	1
+john seems that it is likely to win .	0
+john seems will win .	0
+how do you wonder which problem to solve ?	0
+how intelligent do you consider john ?	1
+how many people do you wonder whether i consider intelligent ?	0
+how intelligent do you wonder whether i consider john ?	0
+what the hell do you wonder how to say ?	0
+he has left .	1
+his book is nice .	1
+bill saw him .	1
+bill works with him .	1
+john believes him to be a nice guy .	1
+john considers him a nice guy .	1
+for him to do that would be a mistake .	1
+with him sick , the team is in trouble .	1
+a man to be in the garden is unlikely .	0
+a man to come is unlikely .	0
+john to call would be unlikely .	0
+this conclusion to be arrived at is surprising .	0
+john believes that he is sick .	1
+john believes that him is sick .	0
+john tries him to win .	0
+john wonders where him to go .	0
+who do you think that bill likes ?	1
+who do you think that bill believes to be innocent ?	1
+who do you think that believes john to be innocent ?	0
+who would you prefer for to win the race ?	0
+someone stole my car .	1
+my car was stolen .	1
+the children eat all chocolate .	0
+john has often kissed mary .	1
+the kids have all eaten the chocolate .	1
+in general , he understands what 's going on .	1
+it 's probable that in general he understands what 's going on .	1
+it 's probable in general that he understands what 's going on .	0
+in general that he understands what 's going on is surprising .	0
+i explained how to fix the sink .	1
+i explained how we should fix the sink .	1
+i explained that we should fix the sink .	1
+i explained to fix the sink .	0
+mickey looked up the reference .	1
+mickey looked the reference up .	1
+mickey looked up them .	1
+mickey teamed up with the women .	1
+mickey teamed with the women up .	0
+mickey pointed out that gary had left .	1
+mickey pointed that gary had left out .	0
+mickey slips up all the time .	1
+mickey slips all the time up .	0
+what does john think mary bought ?	1
+john thinks what mary bought .	0
+john wonders what mary bought .	1
+what does john wonder mary bought ?	0
+who is he reading a book that criticizes ?	0
+what do you remember where we bought ?	0
+who bought what ?	1
+who is reading a book that criticizes who ?	1
+who remembers where we bought what ?	1
+i wonder who what bought ?	0
+i wonder what who bought ?	0
+there are n't many linguistics students here .	1
+i have n't met many linguistics students .	1
+what does every student buy ?	1
+i need sally to be there .	1
+the boat sank to collect the insurance .	0
+the boat was sunk to collect the insurance .	1
+john wants to win .	1
+the bed was unmade .	1
+headway was unmade .	0
+john was unknown .	1
+john was unknown to be the murderer .	0
+we knew john to be the murderer .	1
+he fed the children .	1
+the children were uneducated .	1
+the children were undisciplined .	1
+i believed these students all to like john .	1
+they tried to all like john .	1
+i believed these students to all like john .	1
+did he try ever to talk to the student ?	0
+did you believe him ever to have made an effort to talk to the student ?	1
+did he try to ever be attentive to the needs of students ?	1
+did you believe him to ever have made an effort to talk to the student ?	1
+work out an analysis that is typical of this view of understood subjects .	1
+they were believed all to be quite diligent .	1
+was he believed ever to fail students ?	1
+there is tending to be more and more discussion of these issues .	1
+john seemed to be a great linguist .	1
+there promises to be a storm tonight .	1
+john strived to be successful .	1
+john wanted to improve his lot in life .	1
+john 1 to win .	1
+this book is too dense to be read in one sitting .	1
+there is too likely to be a riot to be a serious discussion of the issues .	0
+john tried .	1
+john remembered .	1
+john is refused .	1
+john forgot .	1
+bill seems to be obnoxious , but i do n't think that sam happens .	0
+bill seems to be obnoxious , but i do n't think that sam turns out .	0
+bill seems to be obnoxious , but i do n't think that sam tends .	0
+they tried all to like john .	0
+they seemed all to like john .	1
+john believes sally to be polite .	1
+i believe john with all my heart to be a fine person .	1
+john is wanted to win .	0
+john would be liked to win .	0
+we would like john to win .	1
+john would be hated to win .	0
+john would be preferred to be the candidate .	0
+we would prefer john to be the candidate .	1
+i would like for john to win .	1
+i would hate for john to win .	1
+i would prefer for john to be the candidate .	1
+john destroyed the house .	1
+the electrode emitted ions into the medium .	1
+ions struck the electrode .	1
+the medium contains ions .	1
+the house destroyed john .	0
+ions left the electrode .	1
+the electrode was left by ions .	0
+the electrode was struck by ions .	1
+the ball lies in the box .	1
+the ball rolled from the bush to the tree .	1
+the box contains the ball .	1
+the tree dropped fruit to the ground .	1
+fruit hit the ground from the tree .	1
+the stone knocked against the pole into the road .	1
+the stone knocked the pole into the road .	1
+the box contained the ball .	1
+the box gradually contained the ball .	0
+the box at once contained the ball .	0
+the box contained the ball to the ground .	0
+the tree gradually dropped its fruit to the ground .	1
+the tree dropped its fruit to the ground .	1
+fruit hit the roof .	1
+fruit hit the roof from the tree .	1
+fruit at once hit the roof from the tree .	1
+fruit hit the roof against the ground .	0
+fruit at once hit the roof against the ground .	0
+fruit dropped from the tree .	1
+fruit dropped from the tree from the clouds .	0
+fruit fell against the house .	0
+fruit fell against the house against the ground .	0
+the tree changed into an oak .	1
+the tree changed from a maple into an oak .	1
+the maple changed into an oak from a cedar .	0
+the maple changed into an oak from a cedar .	1
+the maple changed into an oak .	1
+the oak developed out of a maple .	1
+the train reached the station .	1
+the branches knocked against the wall .	1
+the child became a man .	1
+the party lasted till midnight .	1
+the dog went crazy .	1
+it struck john that it was so .	1
+it came to john that it was so .	1
+the snake saw into the nest .	1
+hard work resulted in high grades .	1
+the farm passed to john .	1
+john is touching the wall .	1
+the wall is being touched by john .	1
+a bear occupies the cave .	1
+a bear inhabits the cave .	1
+water fills the tub .	1
+the electric main joins the house circuit in the basement .	1
+the house circuit is joined by the electric main in the basement .	1
+the fence straddles the sidewalk .	1
+the sidewalk is straddled by the fence .	1
+the man with a book .	1
+gas escaped the tube .	1
+the terrorist escaped the prison cell .	1
+the prison cell was escaped by the terrorist .	1
+the rolling stone avoided the river .	1
+the river was avoided by the rolling stone .	1
+the agents caught the terrorist .	1
+the sponge soaked up the water .	1
+the tub filled with water .	1
+john received a book .	1
+john learned a lesson .	1
+the parcel reached john .	1
+john received the parcel .	1
+the farm finally got to john after much litigation .	1
+the farm finally reached john after much litigation .	0
+water filled the cup high .	1
+water filled the cup .	1
+water emptied the cup .	0
+the cup filled the water high .	0
+the cup filled of water .	0
+the cup filled with water .	1
+the cup emptied with water .	0
+the barge piled high with logs .	1
+the road blocked with a stone .	0
+the branch dropped bare of its apple .	0
+the logs piled the barge high .	0
+a stone blocked the road .	1
+the bottle drained the liquid free .	0
+the branch dropped its apple free .	1
+some branches broke off of the tree .	1
+the tree broke off some branches .	0
+the tree dropped some branches .	1
+the tree lost some branches .	1
+water bubbled out of the kettle .	1
+the kettle bubbled water up .	0
+the kettle bubbled water .	1
+the cup filled water .	0
+the stone knocked the pole into the road .	0
+the tub leaked empty of water .	1
+the stone knocked against the pole into the road .	0
+hail stones broke the window .	1
+the force of the wind broke the window .	1
+the window broke from hail stones .	0
+the window broke from the force of the wind .	1
+what the force of the wind did to the window was break it .	1
+john hit the stone against the wall .	1
+john hit the wall with the stone .	1
+john tapped some wine from a barrel .	1
+john tapped a barrel of some wine .	1
+john laid the book on the table .	1
+john included his name in the list .	1
+john loaded the bricks onto the truck .	1
+john loaded the truck with bricks .	1
+john fed rice to the baby .	1
+john fed the baby rice .	1
+john fed the baby up with rice .	1
+john fed the baby rice up .	0
+the ball lies completely in the box .	1
+the box completely contains the ball .	1
+the train got to the station fully .	1
+the train reached the station fully .	1
+press the stamp against the pad completely .	1
+press the pad with the stamp completely .	1
+spray the paint onto the wall completely .	1
+spray all the paint onto the wall completely .	1
+spray the wall with all the paint .	0
+spray the whole wall with the paint .	1
+what john did to the wall was paint it .	1
+what john did to the whole wall was paint it .	1
+what john did to the wall was hit it .	1
+what the stone did to the wall was hit it .	0
+what the stone did to the whole wall was hit it .	0
+john took bill to be a fool .	1
+john concluded bill to be a fool .	0
+give the bottle to the baby full .	1
+give the bottle to the baby awake .	0
+give the baby the bottle full .	1
+give the baby the bottle awake .	0
+rub the cloth on the baby torn .	1
+rub the cloth on the baby asleep .	0
+rub the baby with the cloth torn .	1
+rub the baby with the cloth asleep .	0
+dry the baby with the cloth asleep .	1
+dry the baby with the cloth torn .	0
+the cup knocked the stone apart .	0
+the stone knocked the cup apart .	1
+the cup smashed apart against the stone .	1
+the stone smashed the cup apart .	1
+the tank filled with petrol out of the pump .	1
+the cup emptied of water onto the ground .	1
+john included her name in the list .	1
+john rolled the ball from the tree to the bush .	1
+john tapped the bottle of some water .	1
+john gave bill the book .	1
+john got the book from bill .	1
+john gave bill of the book .	0
+we have someone in the living room .	1
+john is very fond of mary .	1
+mary laughed at john .	1
+the ship sank beneath the waves .	1
+mary considers john a fool and bill a wimp .	1
+john regards professors as strange and politicians as creepy .	1
+sue put the books on the table and the records on the chair .	1
+harriet gave a mug to john and a scarf to vivien .	1
+i expect john to win and harry to lose .	1
+you eat the fish raw and the beef cooked .	1
+they told sue who to talk to and virginia when to leave .	1
+smith loaned , and his widow later donated , a valuable collection of manuscripts to the library .	1
+sue moved , and mary also transferred , her business to a different location .	1
+i succeeded in convincing , even though john had failed to persuade , mary not to leave .	1
+we did n't particularly like , but nevertheless ate , the fish raw .	1
+flo desperately wants , though she does n't really expect , the miami dolphins to be in the play-offs .	1
+john learned french perfectly .	1
+bill recited his lines poorly .	1
+mary plays the violin beautifully .	1
+john perfectly learned french .	0
+bill poorly recited his lines .	0
+john learned french immediately .	1
+bill recited his lines slowly .	1
+mary will play the violin soon .	1
+john immediately learned french .	1
+bill slowly recited his lines .	1
+mary will soon play the violin .	1
+john immediately learned french perfectly .	1
+john learned french perfectly almost immediately .	1
+john learned french perfectly immediately .	1
+john perfectly learned french immediately .	0
+john learned french immediately perfectly .	0
+clearly , john immediately will probably learn french perfectly .	0
+immediately , john probably will clearly learn french perfectly .	0
+clearly , john perfectly will immediately learn french probably .	0
+john perfectly rolled the ball down the hill .	0
+john rolled the ball perfectly down the hill .	1
+john rolled the ball down the hill perfectly .	1
+john perfectly shot the ball .	0
+john shot the ball perfectly .	1
+john intimately spoke to mary .	0
+john spoke intimately to mary .	1
+john spoke to mary intimately .	1
+john spoke french intimately to mary .	1
+john spoke french to mary intimately .	1
+mary jumped the horse perfectly over the last fence .	1
+mary jumped the horse over the last fence perfectly .	1
+john spoke intimately french to mary .	0
+john spoke to mary french .	0
+mary persuaded to leave john .	0
+the lions ate raw the meat .	0
+mary persuaded that he should rest bill .	0
+we consider the men all fools .	1
+we consider the men all totally crazy .	1
+i saw the men all .	0
+the men were arrested all .	0
+the men arrived all .	0
+the teacher ordered the two boys both to pay close attention .	1
+they returned the books all to their owners .	1
+we painted the chairs all red .	1
+the trainer fed the steaks all to the lions .	1
+bill proud of himself john does n't consider .	0
+home was gone by john .	0
+mary left the room angry .	1
+the room was left angry by mary .	0
+the room was left angry .	0
+john resembles bill .	1
+bill is resembled by john .	0
+the package weighed 10 lb .	1
+10 lb was weighed by the package .	0
+this book cost $ 10 .	1
+$ 10 was cost by this book .	0
+the book cost john $ 10 .	1
+john was cost $ 10 by the book .	0
+john is impressed by bill as pompous .	0
+the boys were made a good mother .	0
+the boys were made a good mother by aunt mary .	0
+the kids were failed by max as a father .	0
+the kids were failed as a father .	0
+the men were struck by the idea as nonsense .	0
+the men were promised to leave .	0
+he impresses his friends all as pompous .	0
+aunt mary made the boys all a good mother .	0
+max failed the kids all as a father .	0
+frank promised the men all to leave .	0
+we proclaimed to the public john to be a hero .	0
+we proclaimed john to the public to be a hero .	1
+we proclaimed sincerely john to be a hero .	0
+we proclaimed john sincerely to be a hero .	1
+we proclaimed sincerely to the public john to be a hero .	0
+we proclaimed john sincerely to the public to be a hero .	1
+they represented to the dean mary as a genuine linguist .	0
+they represented mary to the dean as a genuine linguist .	1
+they represented seriously mary as a genuine linguist .	0
+they represented mary seriously as a genuine linguist .	1
+they represented mary seriously to the dean as a genuine linguist .	1
+we proved to the authorities smith to be the thief .	0
+we proved conclusively smith to be the thief .	0
+we proved smith conclusively to be the thief .	1
+we proved conclusively to the authorities smith to be the thief .	0
+we proved smith conclusively to the authorities to be the thief .	1
+the gardener watered the tulips flat .	1
+the grocer ground the coffee beans to a fine powder .	1
+they painted their house a hideous shade of green .	1
+the joggers ran their nikes threadbare .	1
+the kids laughed themselves into a frenzy .	1
+he coughed his handkerchief completely soggy .	1
+they fed the meat to the lions raw .	1
+the lions ate at the meat raw .	0
+we love them .	1
+we love they .	0
+we love their .	0
+us love their .	0
+our love they .	1
+our love them .	1
+our love their .	1
+he belief that mary kissed bill is mistaken .	0
+him belief that mary kissed bill is mistaken .	0
+his belief that mary kissed bill is mistaken .	1
+mary loves him .	1
+mary is fond of him .	1
+mary is fond him .	0
+mary criticized him .	1
+mary 's criticism him was cruel .	0
+mary 's criticism of him was cruel .	1
+that john loves mary is doubtful .	1
+john to love mary would be doubtful .	0
+for john to love mary would be doubtful .	1
+to go abroad would be nice .	1
+john 's plan to go abroad is nice .	1
+mary believed john to have loved her .	1
+mary considered john to have loved her .	1
+mary reported john to have loved her .	1
+mary considered to have loved her .	0
+mary tried to go abroad .	1
+mary intended to go abroad .	1
+mary managed to go abroad .	1
+mary desired to go abroad .	1
+mary tried john to go abroad .	0
+mary managed john to go abroad .	0
+mary desired john to go abroad .	0
+mary believed him to have loved her .	1
+mary considered him to have loved her .	1
+mary believed he to have loved her .	0
+mary considered he to have loved her .	0
+mary reported he to have loved her .	0
+mary believed his to have loved her .	0
+mary considered his to have loved her .	0
+mary reported his to have loved her .	0
+it is certain that john has loved mary .	1
+it is likely that john has loved mary .	1
+there are strangers in that garden .	1
+there is strangers in that garden .	0
+there is arriving three men at that station .	0
+there are arriving three men at that station .	1
+i consider there to be a man in that garden .	1
+i consider there a man in that garden .	0
+they alleged there to have been many strangers in that garden .	1
+they alleged many strangers to have been in that garden .	0
+john wagered there to have been a stranger in that haunted house .	1
+john wagered a stranger to have been in that haunted house .	0
+john tried to kiss mary .	1
+john persuaded mary to kiss him .	1
+john told mary to kiss him .	1
+it is illegal to park here .	1
+i remembered him having kissed mary .	1
+i reported him having kissed mary .	1
+i reported having kissed mary .	1
+i enjoy taking a bath .	1
+i detest taking a bath .	1
+i enjoy him taking a bath .	0
+i detest him taking a bath .	0
+i saw him kissing mary .	1
+i noticed him kissing mary .	1
+i noticed kissing mary .	0
+there was known to everyone .	0
+john 's refusing the offer is shocking .	1
+the enemy 's destroying the city was horrific .	1
+john 's refusal of the offer was shocking .	1
+the enemy 's destruction of the city was horrific .	1
+john wanted to leave the room happy and leave the room he did happy .	0
+i often send mary home drunk , and she gets there just fine .	1
+i raw eat fish drunk .	0
+i only eat fish drunk raw .	0
+i do n't think fred will , either .	1
+josé likes cabbage , and holly does too .	1
+josé ate cabbage , and holly has too .	1
+josé is eating cabbage , and holly is too .	1
+john is leaving but mary 's not .	1
+i consider bill intelligent and i consider sally not .	1
